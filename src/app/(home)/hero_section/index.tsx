@@ -5,7 +5,7 @@ const HeroSection = () => {
   return (
     <Layout>
       <h1 className="mt-20 text-2xl font-semibold">AI Company</h1>
-      <p className="text-muted-foreground mt-3 px-2 text-xs">
+      <p className="mt-3 px-2 text-xs text-muted-foreground">
         Lorem global <br />
         ipsam eaque ds
       </p>
